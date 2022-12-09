@@ -12,5 +12,5 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
 - Data visualization: Matplotlib, Seaborn 
 
 :book: Learning Stack
-- Natural Language Processing: Hugging Face : Transformers, Diffusers, Datasets
-- Misc Tools: Gradio, Streamlit
+- Natural Language Processing: Hugging Face : Transformers(Whisper,speech2text,GPT), Diffusers, Datasets
+- Misc Tools: Gradio
