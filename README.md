@@ -13,4 +13,4 @@ I am currently a student, just started my journey in Open-Source. I'm learing Ma
 
 :book: Learning Stack
 - Natural Language Processing: Hugging Face : Transformers(Whisper,speech2text,GPT), Diffusers, Datasets
-- Misc Tools: Gradio
+- Misc Tools: Gradio, Qiskit, Cirq
