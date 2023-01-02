@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Someet</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Someet</h1>
 
 I am currently a student, just started my journey in Open-Source. I'm learing Machine Learning, applying it and contributing( Just got my First PR merged :v:). Currently I'm learning about NLP, image and audio generation(🤗hugging face). 
 
