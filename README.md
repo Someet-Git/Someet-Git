@@ -13,7 +13,7 @@ If you share the same passion for quantum computing and want to collaborate on p
 🐍 Python Stack
 - Machine Learning: TensorFlow, Scikit-learn, Pytorch
 - Data Science: Pandas, Numpy
-- Data visualization: Matplotlib, Seaborn 
+- Data visualization: Matplotlib, Seaborn, Graphviz 
 
 :book: Learning Stack
 - Natural Language Processing: Hugging Face : Transformers(Whisper,speech2text,GPT), Diffusers, Datasets
